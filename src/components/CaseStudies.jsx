@@ -249,10 +249,6 @@ const CaseStudies = () => {
                         <Download className="mr-2 h-4 w-4" />
                         Download Full Case Study
                       </Button>
-                      <Button variant="outline" className="w-full">
-                        <ExternalLink className="mr-2 h-4 w-4" />
-                        View Live Results
-                      </Button>
                     </div>
                   </div>
                 </div>
