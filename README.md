@@ -151,7 +151,7 @@ Each case study includes:
 
 The website is optimized for deployment on various platforms:
 
-- **Vercel**: Zero-config deployment
+- **Netlify**: Zero-config deployment
 - **Netlify**: Drag-and-drop or Git integration
 - **GitHub Pages**: Static site hosting
 - **AWS S3**: Static website hosting
