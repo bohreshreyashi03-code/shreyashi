@@ -61,7 +61,7 @@ const Contact = () => {
     {
       icon: MapPin,
       label: 'Location',
-      value: 'Birmingham, United Kingdom',
+      value: 'United Kingdom',
       href: 'https://maps.google.com/?q=Birmingham,UnitedKingdom'
     }
   ]
